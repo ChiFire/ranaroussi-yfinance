@@ -244,7 +244,7 @@ Install ``yfinance`` using ``conda``:
 
 .. code:: bash
 
-    $ conda install -c ranaroussi yfinance
+    $ conda install -c conda-forge yfinance
 
 
 Requirements
